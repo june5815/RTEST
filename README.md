@@ -1,5 +1,5 @@
 # 🏢 WeLive
-### Team.SECURITY
+**Team. SECURITY**  
 
 **WeLive Security**  
 주민과 아파트 관리 주체 간의 원활한 소통과 효율적인 관리를 지원하는  
